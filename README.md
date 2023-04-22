@@ -2,7 +2,7 @@
 ## Heading
 ### Subsection
 
-<Comment (Hidden)>
+<Comment>
 
 **bold text**
 
