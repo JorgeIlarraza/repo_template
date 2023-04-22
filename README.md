@@ -2,6 +2,8 @@
 ## Heading
 ### Subsection
 
+<Comment (Hidden)>
+
 **bold text**
 
 *italicized text*
